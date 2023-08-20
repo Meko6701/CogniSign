@@ -2,7 +2,7 @@
 
 ![Project Logo](png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo.png) <!-- Add your project logo -->
 
-![alt text]([http://url/to/img.png](https://w7.pngwing.com/pngs/767/963/png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo.png))
+![alt text]((https://w7.pngwing.com/pngs/767/963/png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo.png))
 
 
 ## Table of Contents
