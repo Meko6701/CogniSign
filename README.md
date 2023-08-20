@@ -35,4 +35,6 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 ## Installation
 
 1. Clone this repository:
-   ```bashhttps://github.com/Meko6701/HT6.git 
+   ```bash
+   git clone [https://github.com/yourusername/CogniSign.git](https://github.com/Meko6701/HT6.git)https://github.com/Meko6701/HT6.git
+   cd CogniSign   
