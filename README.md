@@ -36,4 +36,4 @@ CogniSign's technical architecture revolves around the synergy of computer visio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Meko6701/HT6.git)https://github.com/Meko6701/HT6.git
+   https://github.com/Meko6701/HT6.git)https://github.com/Meko6701/HT6.git
