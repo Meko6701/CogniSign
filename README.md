@@ -4,6 +4,9 @@
 
 ![alt text]((https://w7.pngwing.com/pngs/767/963/png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo.png))
 
+![png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo](https://github.com/Meko6701/CogniSign/assets/126201353/57b279d4-246f-4741-865b-589c8586ec44)
+
+
 
 ## Table of Contents
 
