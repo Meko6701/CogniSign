@@ -1,6 +1,6 @@
 # CogniSign: Advancing ASL Recognition through Neural Vision
 
-![Project Logo]([project_logo.png](https://w7.pngwing.com/pngs/767/963/png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo.png) <!-- Add your project logo -->
+![Project Logo]([project_logo.png](https://w7.pngwing.com/pngs/767/963/png-transparent-language-interpretation-american-sign-language-auslan-others-english-hand-logo.png)) <!-- Add your project logo -->
 
 ## Table of Contents
 
